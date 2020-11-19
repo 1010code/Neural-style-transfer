@@ -19,7 +19,7 @@ style transfer 可以根據輸入照片產生一張與輸入風格相似的圖�
 ## Result
 | Content Image                        | Style Image                          | Style Transfer                       |
 |--------------------------------------|--------------------------------------|--------------------------------------|
-| ![](https://i.imgur.com/SGcqzia.jpg) | ![](https://i.imgur.com/PkRvbHg.jpg) | ![](https://i.imgur.com/oIGnPPH.png) |
+| ![](https://i.imgur.com/SGcqzia.jpg) | ![](https://i.imgur.com/PkRvbHg.jpg) | ![](https://i.imgur.com/P32ZSz6.png) |
 
 ## Reference
 [風格轉換(Style Transfer) -- 人人都可以是畢卡索](https://ithelp.ithome.com.tw/articles/10192738)
