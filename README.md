@@ -13,3 +13,13 @@ style transfer 可以根據輸入照片產生一張與輸入風格相似的圖�
 風格重建(Style Reconstruction)部分，通常一張畫的風格是一致的，不管 Filter 的內容是什麼，都會有風格特徵包含在其中。因此提取風格就是要找出不同 Filter 的共同點。實作中是透過計算同一層 Filter 的相關性來提取風格的特徵。
 
 ![](https://i.imgur.com/D0kWZvr.png)
+
+## Result
+| Content Image                        | Style Image                          | Style Transfer                       |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| ![](https://i.imgur.com/SGcqzia.jpg) | ![](https://i.imgur.com/PkRvbHg.jpg) | ![](https://i.imgur.com/oIGnPPH.png) |
+
+## Reference
+[風格轉換(Style Transfer) -- 人人都可以是畢卡索](https://ithelp.ithome.com.tw/articles/10192738)
+
+[Neural Style Transfer](http://fancyerii.github.io/books/neural-style-transfer/#neural-style-1)
