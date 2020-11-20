@@ -23,7 +23,6 @@ Style Transfer 可以根據輸入照片產生一張與輸入風格相似的圖�
 | Content Image                        | Style Image                          | Style Transfer                       |
 |--------------------------------------|--------------------------------------|--------------------------------------|
 | ![](https://i.imgur.com/SGcqzia.jpg) | ![](https://i.imgur.com/5byeNqb.jpg) | ![](./demo/TF-Hub-1.png) |
-|
 | ![](https://i.imgur.com/SGcqzia.jpg) | ![](https://i.imgur.com/Xo1815q.jpg) | ![](./demo/TF-Hub-2.png) |
 
 ### Neural style transfer (keras)
