@@ -4,7 +4,7 @@
 
 | TF-Hub                       | keras                          | TF2.0                       |
 |--------------------------------------|--------------------------------------|--------------------------------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/Neural-style-transfer/blob/main/Neural_style_transfer_(keras).ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/Neural-style-transfer/blob/main/Fast_Style_Transfer_(TF_Hub).ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/Neural-style-transfer/blob/main/Neural_style_transfer_(keras).ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 
 
 ## 簡介
