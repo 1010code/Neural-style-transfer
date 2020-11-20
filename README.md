@@ -1,9 +1,11 @@
 # Neural style transfer
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/Neural-style-transfer/blob/main/Neural_style_transfer_(keras).ipynb)
-
 此程式參考於 [Keras](https://keras.io/examples/generative/neural_style_transfer/)，重現 [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) 論文方法.
 
-> Transfering the style of a reference image to target image using gradient descent.
+
+| TF-Hub                       | Keras                          | TF2.0                       |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1010code/Neural-style-transfer/blob/main/Neural_style_transfer_(keras).ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+
 
 ## 簡介
 style transfer 可以根據輸入照片產生一張與輸入風格相似的圖片。此模型有3個輸入，分別有`輸入圖片`、`內容圖片`和`風格圖片`。並透過梯度下降法逐漸修正輸入的圖像，使定義的 Loss 越來越小，從而使得最新的輸入圖像在內容和風格上都更像輸入的內容圖片和風格圖片。
